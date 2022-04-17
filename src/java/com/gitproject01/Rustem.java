@@ -4,6 +4,7 @@ public class Rustem {
     public static void main(String[] args) {
 
         System.out.println("This is the first change");
+        System.out.println("hic onemli degil");
     }
 
 
